@@ -1,12 +1,12 @@
 # Heart-Failure-Prediction-with-Alteryx
-Heart Failure Prediction with Alteryx tool
+## Heart Failure Prediction with Alteryx tool
 
-Steps:
-  1-Importing the Data.
-  2-Exploratory Data Analysis.
-  3-Feature Engineering and Sampling.
-  4-Machine Learning.
-  5-Prediction.
+### Steps:
+  ##### 1-Importing the Data.
+  ##### 2-Exploratory Data Analysis.
+  ##### 3-Feature Engineering and Sampling.
+  ##### 4-Machine Learning.
+  ##### 5-Prediction.
 
 ### source:
 https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction
