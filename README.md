@@ -3,9 +3,9 @@
 
 ### Steps:
   ##### 1-Importing the Data.
-  ##### 2-Exploratory Data Analysis.
-  ##### 3-Feature Engineering and Sampling.
-  ##### 4-Machine Learning.
+  ##### 2-Exploratory Data Analysis (format columns data types, data wrangling, and Visualization).
+  ##### 3-Feature Engineering and Sampling (filtering data and sampling, and join the data).
+  ##### 4-Machine Learning (base line model and select the best model).
   ##### 5-Prediction.
 
 ![alt text](https://github.com/Salama1429/Heart-Failure-Prediction-with-Alteryx/blob/15960c21341a21baa360e20b1d21e5acd4cf05ef/flow%20chart.PNG?raw=true)
