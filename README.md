@@ -8,6 +8,8 @@
   ##### 4-Machine Learning.
   ##### 5-Prediction.
 
+![alt text](https://github.com/Salama1429/Heart-Failure-Prediction-with-Alteryx/blob/15960c21341a21baa360e20b1d21e5acd4cf05ef/flow%20chart.PNG?raw=true)
+
 ### source:
 https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction
 
